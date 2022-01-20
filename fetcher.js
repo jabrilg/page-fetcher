@@ -1,3 +1,4 @@
+//  npm and install the request package
 const request = require('request');
 const fs = require('fs');
 
